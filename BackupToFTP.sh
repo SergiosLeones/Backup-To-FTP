@@ -3,7 +3,7 @@
 # Скрипт для резервного копирования файлов на FTP
 # Автозапуск в сrontab: 0 4 * * * sh /opt/backup.sh >> /opt/cron.log 2>&1
 # by Sergio Leone
-# rev.2020.10.29
+# rev.2020.11.1
 
 echo "\n >> ПОЕХАЛИ! $(date +%c)"
 
