@@ -1,3 +1,4 @@
 # Backup-To-FTP
-Script for backup to FTP server    
-Autostart in CRONTAB: 0 4 * * * sh /opt/script.sh >> /opt/cron.log 2>&1
+Script for backup to FTP server  
+Required installed Python 3  
+Tested on Debian 8.11 and Ubuntu 16.04
